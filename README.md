@@ -40,7 +40,7 @@ Make sure you have the following installed on your system:
 
 1. Set your environment configuration on ```default.json``` and ```custom-environment-variables.json``` files in the ```config``` directory and set the necessary environment variables. Example:
    ```env
-   "jwtPrivateKey": "THIS_IS_ONLY_A_TEMPLATE_DO_NOT_USE_FOR_PRODUCTION",
+   "jwtPrivateKey": "THIS_IS_ONLY_A_TEMPLATE_CHANGE_IT_FOR_PRODUCTION",
    "app_port": "1364",
    "db_name": "myapp_db",
    "debug-server": "127.0.0.1",
