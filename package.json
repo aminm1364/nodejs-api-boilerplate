@@ -1,7 +1,7 @@
 {
   "name": "nodejs_template",
   "version": "1.0.0",
-  "description": "This is a template project as an start point for a Node.JS project. express and MongoDB, validation, Athentication and Athorization, Logging, Congifurations and more.",
+  "description": "This is a template project as an start point for a Node.JS project. express and MongoDB, validation, Authentication and Authorization, Logging, Configurations and Pug.",
   "main": "index.js",
   "scripts": {
     "init": "npm install",
@@ -9,8 +9,8 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Amin Mahmoodian",
+  "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "config": "^3.3.11",
